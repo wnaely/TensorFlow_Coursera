@@ -33,4 +33,9 @@
 <hr>
 
 
- 
+## Certificate
+
+<img alt="Coursera_TensorFlow_Developer" src="https://github.com/wnaely/TensorFlow_Coursera/assets/130523834/244ec668-1f61-496f-b918-fc430eb7892e">
+<img alt="TensorFlow_Developer" src="https://github.com/wnaely/TensorFlow_Coursera/assets/130523834/ec362e44-ab14-4b7c-82ea-b0d2e32a0927">
+
+
